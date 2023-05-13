@@ -1,3 +1,5 @@
+//Calculate the equivelant resistence
+
 #include <iostream>
 using namespace std;
 
